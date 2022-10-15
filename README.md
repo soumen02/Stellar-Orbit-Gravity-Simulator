@@ -1,4 +1,8 @@
 # Stellar Orbit : A Gravity Simulator 
+
+## Game Link:
+[Stellar Orbit : A Gravity Simulator - p5js.org ](https://editor.p5js.org/soumen02/full/nbZCqGCj9)
+
 ![Start Screen](https://user-images.githubusercontent.com/38569809/157738055-7ffe9140-1cc8-4ba0-83c8-7ed0ba3a3fb9.png)
 
 ## How to Play
@@ -22,11 +26,6 @@ The objective of the game is to create as many orbits as you can while having th
 The default crashes is set to 50, making the game end when you crash 50 bodies togather. But, since its a simulation game, make sure you're using all the creativity you have in you and test out all the possibilities that come to your mind. It's not the destination that makes it fun but the journey!
 
 <img src="https://user-images.githubusercontent.com/38569809/157739367-40191ff2-ade7-4804-b917-aaf50c12529d.png" width="50%" />
-
-
-## Game Link:
-
-[Stellar Orbit : A Gravity Simulator - p5js.org ](https://editor.p5js.org/soumen02/full/nbZCqGCj9)
 
 
 ## Codes:
